@@ -1,0 +1,17 @@
+custom tester file
+
+knight 0 0
+pawn 5 5
+pawn 7 0
+rook 2 6
+bishop 2 5 
+bishop 7 3
+rook 3 4
+
+move 0 3 0 1
+move 5 5 5 3
+move 5 3 5 1
+move 2 5 0 5
+move 0 0 10 3
+move 7 3 2 -8
+move 3 4 0 4
